@@ -1,0 +1,6 @@
+num1 = int(input('Digite um número: '))
+print('O valor do número {}'.format, num1 + 1)
+print('O sucessor do número', num1, 'é:', num1 + 1)
+num2 = int(input('Digite outro número: '))
+print('O valor do número {}'. format, num2 - 1)
+print('O antecessor do número', num2, 'é:', num2 - 1)
